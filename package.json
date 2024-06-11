@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "vue-confetti": "^2.3.0",
+    "vue-router": "^4.3.2",
+    "vue3-fortune-wheel": "^1.1.37",
+    "vue3-roulette": "^0.3.3"
+  }
+}

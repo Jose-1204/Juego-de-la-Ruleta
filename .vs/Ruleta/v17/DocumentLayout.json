@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.client\\src\\components\\game.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|solutionrelative:ruleta.client\\src\\components\\game.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.client\\src\\components\\roulette.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|solutionrelative:ruleta.client\\src\\components\\roulette.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\controllers\\roulettecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\controllers\\roulettecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\models\\betresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\models\\betresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\models\\betrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\models\\betrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|solutionrelative:ruleta.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.client\\src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1F82DF59-E5F6-4140-AF9C-8140294CCF39}|ruleta.client\\ruleta.client.esproj|solutionrelative:ruleta.client\\src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|c:\\users\\jose\\desktop\\prueba tecnica\\ruleta\\ruleta.server\\migrations\\20240606161555_updatebetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649962A-35B8-4B5A-AD0A-954ADFB64EBD}|Ruleta.Server\\Ruleta.Server.csproj|solutionrelative:ruleta.server\\migrations\\20240606161555_updatebetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\BetRequest.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Models\\BetRequest.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\BetRequest.cs",
+              "RelativeToolTip": "Ruleta.Server\\Models\\BetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:05:06.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BetResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\BetResponse.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Models\\BetResponse.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\BetResponse.cs",
+              "RelativeToolTip": "Ruleta.Server\\Models\\BetResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T02:58:18.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\src\\router\\index.js",
+              "RelativeDocumentMoniker": "ruleta.client\\src\\router\\index.js",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\src\\router\\index.js",
+              "RelativeToolTip": "ruleta.client\\src\\router\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T16:41:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240606161555_UpdateBetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Migrations\\20240606161555_UpdateBetModel.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Migrations\\20240606161555_UpdateBetModel.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Migrations\\20240606161555_UpdateBetModel.cs",
+              "RelativeToolTip": "Ruleta.Server\\Migrations\\20240606161555_UpdateBetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:15:57.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\Bet.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Models\\Bet.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\Bet.cs",
+              "RelativeToolTip": "Ruleta.Server\\Models\\Bet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:27:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Models\\User.cs",
+              "RelativeToolTip": "Ruleta.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:07:50.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Program.cs",
+              "RelativeToolTip": "Ruleta.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:35:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Ruleta.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:58:25.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Ruleta.Server\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA9wDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:56:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouletteController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Controllers\\RouletteController.cs",
+              "RelativeDocumentMoniker": "Ruleta.Server\\Controllers\\RouletteController.cs",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\Ruleta.Server\\Controllers\\RouletteController.cs",
+              "RelativeToolTip": "Ruleta.Server\\Controllers\\RouletteController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA1wEwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:17:11.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\vite.config.js",
+              "RelativeDocumentMoniker": "ruleta.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\vite.config.js",
+              "RelativeToolTip": "ruleta.client\\vite.config.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T01:55:37.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.vue",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\src\\components\\Game.vue",
+              "RelativeDocumentMoniker": "ruleta.client\\src\\components\\Game.vue",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\src\\components\\Game.vue",
+              "RelativeToolTip": "ruleta.client\\src\\components\\Game.vue",
+              "ViewState": "AQIAALoAAAAAAAAAAAAYwOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-06-06T01:54:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roulette.vue",
+              "DocumentMoniker": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\src\\components\\Roulette.vue",
+              "RelativeDocumentMoniker": "ruleta.client\\src\\components\\Roulette.vue",
+              "ToolTip": "C:\\Users\\Jose\\Desktop\\Prueba Tecnica\\Ruleta\\ruleta.client\\src\\components\\Roulette.vue",
+              "RelativeToolTip": "ruleta.client\\src\\components\\Roulette.vue",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAuwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-06-06T01:54:28.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
